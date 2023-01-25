@@ -1,0 +1,1234 @@
+
+/* Normal desktop :1200px. */
+@media (min-width: 1365px) and (max-width: 1500px) {
+.header-menu ul li a {
+    margin: 25px 3px!important;
+}
+.search-box-btn.search-box-outer {
+    margin-top: 19px!important;
+}
+.nav-pills .nav-link {
+    padding: 16px 38px!important;
+}
+.about-title h2 {
+    font-size: 32px!important;
+}
+.slider-content h1 {
+    font-size: 59px!important;
+}
+.dreamit-section-main-title h2 {
+    font-size: 37px!important;
+}
+.case-study-title a h2 {
+    font-size: 20px!important;
+}
+.faq-area {
+    padding: 0 0!important;
+}
+.service-content {
+    padding: 0 1px 0!important;
+}
+.header-src-btn {
+    display: none!important;
+}
+.header-menu .sub-menu ul li a {
+    margin: 2px 3px!important;
+}
+.header-top-address ul li {
+    margin-right: 17px!important;
+}
+
+
+
+
+
+}
+/* Normal Laptop :992px. */
+@media (min-width: 1200px) and (max-width: 1364px) {
+.header-menu ul li a {
+    margin: 25px 3px!important;
+    font-size: 14px!important;
+}
+.header-src-btn {
+    display: none!important;
+}
+.header-menu .sub-menu ul li a {
+    margin: 2px 3px!important;
+}
+.header-top-address ul li {
+    margin-right: 17px!important;
+}
+
+
+}
+/* Normal Laptop :992px. */
+@media (min-width: 1024px) and (max-width: 1199px) {
+.header-menu ul li a {
+    margin: 25px 3px!important;
+    font-size: 14px!important;
+}
+.search-box-btn.search-box-outer {
+    margin-top: 19px!important;
+}
+.header-top-address ul li {
+    margin-right: 11px!important;
+    font-size: 13px!important;
+}
+ .header-top-address ul li a {
+    font-size: 13px!important;
+}
+.nav-pills .nav-link {
+    padding: 16px 37px!important;
+}
+.dreamit-section-main-title h2 {
+    font-size: 33px!important;
+}
+.case-study-title a h2 {
+    font-size: 15px!important;
+}
+.case-study-title span {
+    font-size: 15px;
+}
+.post-title a h2 {
+    font-size: 14px!important;
+}
+.header-top-address ul li {
+    margin-right: 7px!important;
+    font-size: 13px!important;
+}
+.dreamit-slider-button a {
+    padding: 10px 21px!important;
+}
+.slider-content h1 {
+    font-size: 47px!important;
+}
+.slider-content h2 {
+    font-size: 54px!important;
+}
+.slider-content p {
+    font-size: 21px!important;
+}
+.about-title h2 {
+    font-size: 24px!important;
+}
+.dreamit-section-main-title h2 {
+    font-size: 30px!important;
+}
+.call-do-action-title h2 {
+    font-size: 32px!important;
+}
+.feature-title h2 {
+    font-size: 13px!important;
+}
+.feature-content-text p {
+    font-size: 11px!important;
+}
+.industries-title h2 {
+    font-size: 18px!important;
+}
+.service-title h2 {
+    font-size: 15px!important;
+}
+.choose-us-area .choose-us-title h2 {
+    font-size: 16px!important;
+}
+.faq-area {
+    padding: 0 0!important;
+}
+.nav-pills .nav-link {
+    padding: 16px 27px!important;
+}
+.portfolio-inf-body ul li {
+    font-size: 17px!important;
+}
+.call-do-button a {
+    font-size: 13px!important;
+}
+.header-area  .sub-menu ul li {
+    margin-bottom: -74px!important;
+}
+.single-service-box {
+    padding: 40px 13px 17px!important;
+}
+.header-menu .sub-menu ul li a {
+    margin: 2px 3px!important;
+}
+.header-menu .sub-menu ul li a {
+    margin: 2px 3px!important;
+    padding-bottom: 40px;
+}
+.header-src-btn {
+    display: none!important;
+}
+
+
+}
+
+
+
+@media (min-width: 992px) and (max-width: 1024px) {
+
+.slider-content h1 {
+    font-size: 57px!important;
+}
+.header-top-address ul li {
+    margin-right: 11px!important;
+    font-size: 13px!important;
+}
+ .header-top-address ul li a {
+    font-size: 13px!important;
+}
+.header-menu ul li a {
+    font-size: 14px!important;
+    margin: 22px 2px!important;
+}
+.search-box-btn.search-box-outer {
+    margin-top: 12px!important;
+    margin-left: 19px!important;
+}
+.nav-pills .nav-link {
+    margin-bottom: 0px;
+}
+.about-number h1 {
+    font-size: 100px!important;
+}
+.about-title h2 {
+    font-size: 22px!important;
+}
+.dreamit-section-main-title h2 {
+    font-size: 29px!important;
+}
+.case-study-title span {
+    font-size: 14px;
+}
+.case-study-title a h2 {
+    font-size: 15px!important;
+}
+.post-title a h2 {
+    font-size: 11px!important;
+}
+.post-title span {
+    font-size: 12px!important;
+}
+.blog-meta a {
+    margin-right: 16px!important;
+}
+.blog-meta a:before {
+    right: -6px!important;
+}
+.header-top-address ul li a {
+    font-size: 12px!important;
+}
+.slider-content h1 {
+    font-size: 45px!important;
+}
+.slider-content h2 {
+    font-size: 55px!important;
+}
+.slider-content p {
+    font-size: 21px!important;
+}
+.call-do-action-title h2 {
+    font-size: 31px!important;
+}
+.feature-title h2 {
+    font-size: 15px!important;
+}
+.dreamit-service-content-text p {
+    font-size: 13px!important;
+}
+.dreamit-service-area.style-two .service-content-text p {
+    font-size: 14px!important;
+}
+.feature-content-text p {
+    font-size: 14px!important;
+}
+.blog-title h2 {
+    font-size: 15px!important;
+}
+.blog-meta a {
+    font-size: 13px!important;
+}
+.blog-meta span {
+    font-size: 13px;
+}
+.choose-us-area .choose-us-title h2 {
+    font-size: 15px!important;
+}
+.faq-area {
+    padding: 0 0!important;
+}
+.case-detail-area .pl-65 {
+    padding-left: 20px!important;
+}
+.nav-pills .nav-link {
+    padding: 16px 27px!important;
+}
+.info-title h2 {
+    font-size: 22px!important;
+}
+.dremit-feature-title h2 {
+    font-size: 17px!important;
+}
+.dreamit-filepx-area.style-two.upper7 .box-title h3 {
+    font-size: 18px;
+}
+/* .header-area .header-menu ul li a {
+    margin: 0px 3px 10px !important;
+}
+ */
+.header-menu .sub-menu ul li a {
+    margin: 2px 3px!important;
+    padding-bottom: 40px;
+}
+.header-src-btn {
+    display: none!important;
+}
+
+
+}
+/* Tablet Tab :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+.header-logo{
+    display: none !important;
+}
+.logo-txt::before {
+  display: block !important;
+}
+.menu-toggle {
+  display: block !important;
+}
+.header-area {
+    background: #5A49F8!important;
+    padding: 30px !important;
+}
+.menu-wrapper {
+    position: absolute;
+    top: 60px;
+    background: #fff !important;
+    left: -100%;
+    padding-bottom: 20px;
+    height: auto;
+    width: 350px;
+    transition: .5s;
+    z-index: 99;
+}
+.header-menu ul li span{
+    display: none;
+}
+.header-menu ul li .mobile-menu-icon {
+    display:block !important;
+}
+.active-nav {
+    left:0 !important;
+}
+.menu-toggle {
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    font-size: 20px;
+    color: #fff;
+    cursor: pointer;
+}
+.header-button {
+    display: none !important;
+}
+.header-menu ul li a {
+    color: #232323 !important;
+    display: block !important;
+    margin: 0 !important;
+    padding: 18px 0 18px 25px;
+}
+.header-menu ul li{
+    border-bottom: 1px solid #ccc;
+}
+.header-menu ul li:last-Child{
+    border:none;
+}
+.header-menu ul {
+    text-align: left;
+    display: block !important;
+}
+.header-menu ul li {
+    display: block !important;
+    padding-bottom: 0 !important;
+}
+.mobile-menu-icon {
+    color: #6d6d6d;
+    right: 0;
+    float: right;
+    margin-right: 30px;
+    display: block !important;
+    transition: .3s;
+}
+.header-menu ul li:hover .mobile-menu-icon {
+	color: #279e64;
+}
+.header-menu .sub-menu {
+    position: absolute;
+    width: 270px !important;
+    left: 350px !important;
+    padding-bottom: 30px;
+}
+.header-menu ul li:hover .sub-menu {
+    top: 0 !important;
+    left: 350px !important; 
+}
+.header-area.sticky-nav{
+ position:relative !important; 
+ }
+.header-menu .sub-menu ul{
+    width:250px;
+}
+.header-area .sub-menu ul li{
+    border-bottom: 1px solid #d6d6d6;
+    margin-bottom: 0 !important;
+    transition: .5s;
+}
+.header-area .sub-menu ul li:last-Child{
+     border-bottom: none;
+}
+.header-area .sub-menu ul li a {
+    margin: 0 !important;
+    padding: 18px 30px !important;
+    transition: .5s;
+}
+.header-area .sub-menu ul li a::before {
+    left: 5px !important;
+    top: 30px !important;
+    transition: .5s;
+}
+.header-area .sub-menu ul li:hover{
+   margin-left: 10px;
+}
+.header-top-menu {
+	display: none!important;
+}
+.sticky-nav .header-menu ul li a:hover {
+	color: #279e64!important;
+}
+.nav-pills .nav-link {
+    margin-bottom: 20px;
+}
+.dreamit-section-main-title h2 {
+    font-size: 22px!important;
+}
+.dreamit-call-do-button a {
+    padding: 13px 16px!important;
+    margin-left: 35px!important;
+}
+.case-study-title a h2 {
+    font-size: 18px!important;
+}
+.dreamit-contact-area .form-control {
+    margin-bottom: 16px;
+}
+.post-content {
+    margin-left: 14px!important;
+}
+.appoinment-form {
+    margin-top: 33px!important;
+}
+.dreamit-single-counter {
+    margin-bottom: 30px;
+}
+.dreamit-blog-area .dreamit-section-content-text p {
+    font-size: 14px;
+}
+.blog-meta a {
+    margin-right: 13px!important;
+}
+.slider-thumb img {
+    display: none!important;
+}
+.owl-nav {
+    display: none!important;
+}
+.dreamit-section-content-text p {
+    font-size: 11px!important;
+}
+.contact-title {
+    margin-left: 1px!important;
+}
+.contact-title h2 {
+    font-size: 14px!important;
+}
+.about-icon-content-text p{
+    line-height: 1.2!important;
+    font-size: 11px!important;
+}
+.dreamit-about-area.style-two .dreamit-section-content-text p {
+    margin: 8px 0 0px!important;
+}
+.dreamit-about-area.style-two .mt-45 {
+    margin-top: 30px!important;
+}
+.dreamit-about-area.style-two .pl-45 {
+    padding-left: 5px!important;
+}
+.single-service-box {
+    margin-bottom: 30px;
+}
+.call-do-action-area.style-three .call-do-action-title h2 {
+    font-size: 27px!important;
+}
+.call-title h2 {
+    font-size: 41px!important;
+}
+.industries-title h2 {
+    font-size: 16px!important;
+}
+.slider-content h2 {
+    font-size: 54px!important;
+}
+.about-area .pl-60 {
+    padding-left: 4px!important;
+}
+.about-title h2 {
+    font-size: 25px!important;
+}
+.dreamit-about-content-text p {
+    line-height: 1!important;
+    margin-bottom: 14px!important;
+}
+.dreamit-single-pricing-box {
+    margin-bottom: 30px;
+}
+.dreamit-testimonial-area.style-two .testimonial-conten-text p {
+    margin: 23px 0 21px 0!important;
+    width: 100%!important;
+}
+.dreamit-case-study-area {
+    padding: 46px 0 14px!important;
+}
+.call-do-action-area.style-four .call-do-action-title h2 {
+    font-size: 35px!important;
+}
+.call-do-button a {
+    font-size: 13px!important;
+}
+.about-area.style-four .about-icon-content {
+    margin-left: 41px!important;
+}
+.about-title h2 {
+    font-size: 15px!important;
+    margin: 0 0 4px!important;
+}
+.about-area.style-four .about-content-text p {
+    font-size: 13px;
+}
+.faq-area {
+    padding: 37px 0!important;
+}
+.call-do-action-area.style-five .call-do-action-title h2 {
+    font-size: 36px!important;
+}
+.call-do-action-area.style-six .call-do-action-title h2 {
+    font-size: 36px!important;
+}
+.call-do-action-area.style-six .call-do-content-text p {
+    width: 50%!important;
+}
+.single-team-content h1 {
+    font-size: 36px!important;
+    margin: 0 0 4px!important;
+}
+.case-detail-area .pl-65 {
+    padding-left: 0px!important;
+}
+.case-detail-information-body  li {
+    font-size: 13px!important;
+}
+.case-detail-information-body ul li strong {
+    font-size: 16px!important;
+    margin-right: 3px!important;
+}
+.service-help-button a {
+    padding: 13px 15px!important;
+}
+.srervice-help-center-title h2 {
+    font-size: 14px!important;
+    margin: 4px 0 6px!important;
+}
+.service-help-content-text-inner p {
+    font-size: 14px;
+}
+.dreamit-slider-button a {
+    display: none!important;
+}
+.nav-pills .nav-link {
+    padding: 16px 17px!important;
+}
+.nav-pills .nav-link {
+    font-size: 12px!important;
+}
+.service-deatail-two-area .box-title h3 {
+    font-size: 14px!important;
+}
+.service-deatail-two-area .feature-content-text p {
+    line-height: 1.1!important;
+    margin-top: 5px!important;
+}
+.service-detail-content {
+    padding: 0 0 0px 0px!important;
+}
+.service-detail-title h3 {
+    font-size: 18px!important;
+}
+.service-detail-btn a {
+    padding: 11px 33px!important;
+    font-size: 12px!important;
+}
+.flip-box-title h3 {
+    font-size: 18px!important;
+}
+.service-deatail-two-area .des p {
+    width: 99%!important;
+}
+.service-detail-box {
+    padding: 0 10px 0 0!important;
+}
+.portfolio-detail-area .pl-70 {
+    padding-left: 10px!important;
+}
+.portfolio-social-information p {
+    margin: 10px 0 12px!important;
+}
+.portfolio-detail-title h2 {
+    margin: 0 0 0px!important;
+}
+.portfolio-inf-body ul li strong {
+    font-size: 18px!important;
+}
+.sidebar-thumb-title {
+    margin-left: 0px!important;
+    padding: 0 4px!important;
+}
+.blog-content {
+    padding: 26px 24px 27px 15px!important;
+}
+.blog-meta a {
+    font-size: 13px;
+}
+.blog-meta span {
+    font-size: 13px;
+}
+.blog-meta a:before {
+    right: -6px!important;
+    top: 2px!important;
+}
+.sidebar-thumb-title a h2 {
+    font-size: 15px!important;
+}
+.sidebar-box {
+    padding: 25px 20px 23px!important;
+}
+.sidebar-about-social-address ul li a {
+    margin-right: 1px!important;
+}
+.sidebar-popular-tag ul li a {
+    padding: 7px 6px!important;
+    margin-right: 8px!important;
+}
+.experence-area .dreamit-section-content-text p {
+    margin: 21px 0 9px!important;
+}
+.faq-area.style-three .pt-80 {
+    padding-top: 38px!important;
+}
+.appoinment-form {
+    display: none;
+}
+.header-src-btn {
+    display: none!important;
+}
+
+
+
+}
+
+/* Large Mobile :767px. */
+@media only screen and (min-width: 600px) and (max-width: 767px) {
+.header-logo{
+    display: none !important;
+}
+.logo-txt::before {
+  display: block !important;
+}
+.menu-toggle {
+  display: block !important;
+}
+.header-area {
+    background: #5A49F8;
+    padding: 30px !important;
+}
+.menu-wrapper {
+    position: absolute;
+    top: 60px;
+    background: #fff !important;
+    left: -100%;
+    padding-bottom: 20px;
+    height:auto;
+    width: 350px;
+    transition: .5s;
+    z-index: 99;
+}
+.header-menu ul li span{
+    display: none;
+}
+.header-menu ul li .mobile-menu-icon {
+    display:block !important;
+}
+.active-nav {
+    left:0 !important;
+}
+.menu-toggle {
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    font-size: 20px;
+    color: #fff;
+    cursor: pointer;
+}
+.header-button {
+    display: none !important;
+}
+.header-menu ul li a {
+    color: #232323 !important;
+    display: block !important;
+    margin: 0 !important;
+    padding: 18px 0 18px 25px;
+}
+.header-menu ul li{
+    border-bottom: 1px solid #ccc;
+}
+.header-menu ul li:last-Child{
+    border:none;
+}
+.header-menu ul {
+    text-align: left;
+    display: block !important;
+}
+.header-menu ul li {
+    display: block !important;
+    padding-bottom: 0 !important;
+}
+.mobile-menu-icon {
+    color: #6d6d6d;
+    right: 0;
+    float: right;
+    margin-right: 30px;
+    display: block !important;
+    transition: .3s;
+}
+.header-menu ul li:hover .mobile-menu-icon {
+    color: #03396b;
+}
+.header-menu .sub-menu {
+    position: absolute;
+    width: 270px !important;
+    left: 350px !important;
+    padding-bottom: 30px;
+}
+.header-menu ul li:hover .sub-menu {
+    top: 0 !important;
+    left: 350px !important; 
+}
+.header-area.sticky-nav{
+ position:relative !important; 
+ }
+.header-menu .sub-menu ul{
+    width:250px;
+}
+.header-area .sub-menu ul li{
+    border-bottom: 1px solid #d6d6d6;
+    margin-bottom: 0 !important;
+    transition: .5s;
+}
+.header-area .sub-menu ul li:last-Child{
+     border-bottom: none;
+}
+.header-area .sub-menu ul li a {
+    margin: 0 !important;
+    padding: 12px 30px !important;
+    transition: .5s;
+}
+.header-area .sub-menu ul li a::before {
+    left: 5px !important;
+    top: 21px !important;
+    transition: .5s;
+}
+.header-area .sub-menu ul li:hover{
+   margin-left: 10px;
+}
+.header-top-menu {
+    display: none!important;
+}
+.sticky-nav .header-menu ul li a:hover {
+    color: #279e64!important;
+}
+.appoinment-form {
+    display: none!important;
+}
+.slider-content h2 {
+    font-size: 46px!important;
+}
+.slider-content h1 {
+    font-size: 46px!important;
+}
+.search-box-btn.search-box-outer {
+    display: none!important;
+}
+.dreamit-section-main-title h2 {
+    font-size: 31px!important;
+}
+.nav-pills .nav-link {
+    margin-bottom: 20px;
+}
+.dreamit-team-member-area {
+    padding: 20px 0 80px!important;
+}
+.dreamit-single-counter {
+    margin-bottom: 30px;
+}
+.dreamit-contact-area .form-control {
+    margin-bottom: 16px;
+}
+.about-title h2 {
+    font-size: 30px!important;
+}
+.slider-thumb img {
+    display: none!important;
+}
+.slider-content p {
+    font-size: 20px!important;
+}
+.owl-nav {
+    display: none!important;
+}
+.single-service-box {
+    margin-bottom: 30px;
+}
+.dreamit-single-counter {
+    text-align: center;
+}
+.dreamit-single-pricing-box {
+    margin-bottom: 30px;
+}
+.dreamit-slider-button a {
+    display: none!important;
+}
+.dreamit-counter-area.style-four .dreamit-single-counter {
+    border: none!important;
+}
+.faq-area {
+    padding: 40px 0!important;
+}
+.dreamit-counter-area.style-five .dreamit-single-counter {
+    border-right: none!important;
+}
+.call-do-action-area.style-five .call-do-action-title h2 {
+    font-size: 26px!important;
+}
+.call-do-action-area.style-five .call-do-content-text p {
+    width: 83%!important;
+}
+.call-do-action-area.style-six .call-do-content-text p {
+    width: 100%!important;
+}
+.case-detail-area .pl-65 {
+    padding-left: 15px!important;
+}
+.case-detail-info-tilte h2 {
+    margin-bottom: 6px!important;
+    margin-top: 34px!important;
+}
+.case-detail-title h2 {
+    font-size: 21px!important;
+}
+.service-help-thumb {
+    margin-bottom: 30px;
+}
+.dreamit-single-counter {
+    text-align: center;
+    margin-bottom: 30px;
+}
+.service-detail-box {
+    padding-top: 37px!important;
+}
+.dreamit-team-single-box {
+    margin-bottom: 15px;
+}
+.dreamit-counter-area.style-seven .dreamit-single-counter {
+    border-right: none!important;
+}
+.dreamit-counter-area.style-eight .dreamit-single-counter {
+    border-right: none;
+}
+.form-control {
+    margin-bottom: 16px;
+}
+.faq-area.style-three .pt-80 {
+    padding-top: 38px!important;
+}
+.header-src-btn {
+    display: none!important;
+}
+
+
+
+
+
+
+
+}
+
+/* small mobile :320px. */
+@media only screen and (min-width: 320px) and (max-width: 599px) {
+
+.header-logo{
+    display: none !important;
+}
+.logo-txt::before {
+  display: block !important;
+}
+.menu-toggle {
+  display: block !important;
+}
+.header-area {
+    background: #5a49f8!important;
+    padding: 30px !important;
+}
+.menu-wrapper {
+    position: absolute;
+    top: 60px;
+    background: #fff !important;
+    left: -110%;
+    padding-bottom: 20px;
+    height: auto;
+    width: 166px;
+    transition: .5s;
+    z-index: 99;
+}
+.header-menu ul li span{
+    display: none;
+}
+.header-menu ul li .mobile-menu-icon {
+    display:block !important;
+}
+.active-nav {
+    left:0 !important;
+}
+.menu-toggle {
+    position: absolute;
+    right:0px;
+    top: 0px;
+    font-size: 20px;
+    color: #fff;
+    cursor: pointer;
+}
+.header-button {
+    display: none !important;
+}
+.header-menu ul li a {
+    color: #232323 !important;
+    display: block !important;
+    margin: 0 !important;
+    padding: 18px 0 18px 25px;
+}
+.header-menu ul li{
+    border-bottom: 1px solid #ccc;
+}
+.header-menu ul li:last-Child{
+    border:none;
+}
+.header-menu ul {
+    text-align: left;
+    display: block !important;
+}
+.header-menu ul li {
+    display: block !important;
+    padding-bottom: 0 !important;
+}
+.mobile-menu-icon {
+    color: #6d6d6d;
+    right: 0;
+    float: right;
+    margin-right: 30px;
+    display: block !important;
+    transition: .3s;
+}
+.header-menu ul li:hover .mobile-menu-icon {
+    color: #03396b;
+}
+.header-menu .sub-menu {
+    position: absolute;
+    width: 155px !important;
+    left: 149px !important;
+    padding-bottom: 30px;
+}
+.header-menu ul li:hover .sub-menu {
+    top: 0 !important;
+    left: 166px !important;
+}
+.header-menu .sub-menu ul{
+    width:250px;
+}
+.header-area .sub-menu ul li{
+    border-bottom: 1px solid #d6d6d6;
+    margin-bottom: 0 !important;
+    transition: .5s;
+}
+.header-area .sub-menu ul li:last-Child{
+     border-bottom: none;
+}
+.header-area .sub-menu ul li a {
+    margin: 0 !important;
+    padding: 18px 1px !important;
+}
+.header-area .sub-menu ul li a::before {
+    left: 5px !important;
+    top: 30px !important;
+    transition: .5s;
+}
+.header-area .sub-menu ul li:hover{
+   margin-left: 10px;
+}
+.header-top-menu {
+    display: none!important;
+}
+.sticky-nav .header-menu ul li a:hover {
+    color: #279e64!important;
+}
+.appoinment-form {
+    display: none!important;
+}
+.slider-content h1 {
+    font-size: 44px!important;
+}
+.slider-content h2 {
+    font-size: 36px!important;
+}
+.dreamit-section-main-title h2 {
+    font-size: 36px!important;
+}
+.nav-pills .nav-link {
+    margin-bottom: 0px;
+}
+.nav-pills .nav-link {
+    font-size: 10px!important;
+}
+.about-number h1 {
+    font-size: 81px!important;
+    margin-right: 5px!important;
+}
+.about-title h2 {
+    font-size: 21px!important;
+    margin-top: 0px!important;
+    margin-bottom: 20px;
+}
+.dreamit-team-member-area {
+    padding: 5px 0 80px!important;
+}
+.dreamit-counter-area.style-five .dreamit-single-counter {
+    border-right: none!important;
+}
+.dreamit-section-main-title h2 {
+    font-size: 22px!important;
+}
+.dreamit-call-do-button a {
+    margin-bottom: 30px;
+}
+.case-study-title a h2 {
+    font-size: 15px!important;
+}
+.dreamit-case-study-area {
+    padding: 75px 0 5px!important;
+}
+.dreamit-single-counter {
+    margin-bottom: 30px;
+}
+.contact-title span {
+    font-size: 14px;
+}
+.dreamit-contact-area .form-control {
+    margin-bottom: 20px;
+}
+.blog-meta a {
+    margin-right: 15px!important;
+}
+.blog-meta a:before {
+    right: -6px!important;
+    top: 5px!important;
+    height: 12px!important;
+}
+.subscribe-area button {
+    padding: 0px 25px!important;
+}
+.dreamit-footer-social-address ul li a i {
+    margin-right: 18px!important;
+}
+#to-top {
+    right: 4px!important;
+    width: 45px!important;
+    height: 45px!important;
+    line-height: 45px!important;
+}
+.slider-thumb img {
+    display: none!important;
+}
+.blog-meta a {
+    margin-right: 10px!important;
+    font-size: 13px;
+}
+.blog-meta  span {
+    font-size: 12px;
+}
+.blog-title h2 {
+    font-size: 15px!important;
+}
+.blog-content-text p {
+    font-size: 13px;
+}
+.dreamit-testimonial-area {
+    padding: 76px 0 5px!important;
+}
+.testimonial-conten-text p {
+    font-size: 13px!important;
+}
+.call-do-action-title h2 {
+    font-size: 22px!important;
+}
+.dreamit-section-main-title h2 {
+    font-size: 19px!important;
+}
+.slider-content h1 {
+    font-size: 27px!important;
+}
+.slider-content h2 {
+    font-size: 27px!important;
+}
+.slider-content p {
+    font-size: 19px!important;
+}
+a.slider-active {
+    margin-left: 0!important;
+}
+.slider-button a {
+    margin-bottom: 30px;
+}
+.owl-nav {
+    display: none!important;
+}
+.header-area.sticky-nav{
+ position:relative !important; 
+ }
+.single-service-box {
+    margin-bottom: 30px;
+}
+.dreamit-single-counter {
+    text-align: center;
+}
+.dreamit-about-area.style-three .dreamit-about-icon-content {
+    margin-left: 47px!important;
+}
+.dreamit-about-area.style-three  .about-icon-content-text p {
+    font-size: 13px;
+}
+.dreamit-about-area.style-three {
+    padding: 13px 0 9px!important;
+}
+.slider-area.style-eight .slider-content h3 {
+    font-size: 31px!important;
+}
+.dreamit-slider-button a{
+    display: none!important;
+}
+.feature-area {
+    padding: 27px 0 5px!important;
+}
+.dreamit-single-pricing-box {
+    margin-bottom: 30px;
+}
+.slider-area.style-nine .slider-content p {
+    font-size: 15px!important;
+    width: 100%!important;
+}
+.slider-area.style-ten .slider-content p {
+    width: 100%!important;
+}
+.dreamit-counter-area.style-four .dreamit-single-counter {
+    border: none!important;
+}
+.faq-area {
+    padding: 38px 0!important;
+}
+.dreamit-team-member-area {
+    padding: 36px 0 40px!important;
+}
+.call-do-action-area.style-five .call-do-action-title h2 {
+    font-size: 26px!important;
+}
+.call-do-action-area.style-five .call-do-content-text p {
+    width: 83%!important;
+}
+.call-do-action-area.style-six .call-do-content-text p {
+    width: 100%!important;
+}
+.case-detail-area .pl-65 {
+    padding-left: 10px!important;
+}
+.service-help-thumb {
+    margin-bottom: 30px;
+}
+.breatcome-content-title h1 {
+    font-size: 41px;
+}
+.dreamit-single-counter {
+    text-align: center;
+    margin-bottom: 30px;
+}
+.service-detail-box {
+    padding-top: 37px!important;
+}
+.flip-box-title h3 {
+    font-size: 18px!important;
+}
+.service-deatail-two-area .des p {
+    width: 99%!important;
+}
+.service-deatail-two-area .box-title h3 {
+    font-size: 18px!important;
+}
+.service-deatail-two-area .feature-content-text p {
+    line-height: 1.1!important;
+    margin-top: 0px!important;
+}
+.portfolio-detail-area .pl-70 {
+    padding-left: 0!important;
+}
+.dreamit-team-single-box {
+    margin-bottom: 15px;
+}
+.dreamit-counter-area.style-seven .dreamit-single-counter {
+    border-right: none!important;
+}
+.dreamit-counter-area.style-eight .dreamit-single-counter {
+    border-right: none;
+}
+.form-control {
+    margin-bottom: 16px;
+}
+.faq-area.style-three .pt-80 {
+    padding-top: 38px!important;
+}
+.header-src-btn {
+    display: none!important;
+}
+
+
+
+
+}
+
+
